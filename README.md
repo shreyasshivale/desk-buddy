@@ -1,4 +1,4 @@
-# DESK BUDDY v2.0 🤖
+# DESK BUDDY 
 
 A smart animated desktop companion built using the **Seeed Studio XIAO ESP32S3** and a **240×240 ST7789 TFT display**.  
 Desk Buddy combines expressive animated eyes, real-time clock, live weather updates, and a built-in WiFi configuration portal into a compact cyberpunk-style desk gadget.
